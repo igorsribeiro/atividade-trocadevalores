@@ -1,0 +1,1 @@
+Fiz um algoritmo que pede dois inteiros e armazene eles em duas variáveis. Em seguida, troquei o valor das variáveis e mostrei na tela os valores trocados.
